@@ -1,31 +1,37 @@
-🚀 Tecnologias utilizadas
-⚛️ React + Vite
+# 🎬 Projeto React TMDB
 
-📡 Axios para requisições à API
+Este projeto é uma aplicação web de filmes e séries, consumindo a **TMDB API**, desenvolvida com **React + Vite**. A aplicação apresenta um design moderno, responsivo e diversas funcionalidades interativas.
 
-🎞️ TMDB API
+---
 
-📦 React Router DOM
+## 🚀 Tecnologias Utilizadas
 
-💅 Styled-Components
+- ⚛️ **React + Vite**  
+- 📡 **Axios** para requisições à API  
+- 🎞️ **TMDB API**  
+- 📦 **React Router DOM**  
+- 💅 **Styled-Components**  
+- 🧩 Componentização com **Slider, Modal, Button**  
+- 📱 **Responsivo** e com design moderno  
 
-🧩 Componentização com Slider, Modal, Button
+---
 
-📱 Responsivo e com design moderno
+## 📸 Funcionalidades
 
-📸 Principais Funcionalidades
-Destaque semanal com banner do filme
+- Destaque semanal com **banner do filme**  
+- **Modal** com trailer do filme  
+- Navegação para **página de detalhes** do filme ou série  
+- Carrosséis para:  
+  - Top Filmes  
+  - Top Séries  
+  - Séries Populares  
+  - Artistas em Destaque  
 
-Modal com trailer do filme
+---
 
-Navegação para página de detalhes
+## 💻 Como Rodar o Projeto - npm run dev
 
-Carrosséis para:
-
-Top Filmes
-
-Top Séries
-
-Séries Populares
-
-Artistas em Destaque
+### 1️⃣ Clonar o repositório
+```bash
+git clone <https://github.com/FellipeBordin/Projeto-com-React/>
+cd <projeto-react>
